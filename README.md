@@ -1,13 +1,13 @@
-﻿TRT_SInterp
+TRT-SInterp
 ===========
 
 Stochastic Interpretation of Thermal Response Test
 
 ## Description
-TRT_SInterp is a Matlab code designed to interpret a thermal response test in a deterministic or stochastic framework. The program treats variable heating power and emulates a borehole heat exchanger by a finite line-source model or a thermal resistance and capacity model. The possibly unknown parameters identified may comprise the thermal conductivity and volumetric heat capacity of the ground and grout, as well as the spacing between the pipes and the initial ground temperature. It is possible to integrate to the inversion the temperature measurements made at various depths in the fluid and grout and to take into account the fluid flow rate and the thermal capacity of the underground components.  
+TRT-SInterp is a Matlab code designed to interpret a thermal response test in a deterministic or stochastic framework. The program treats variable heating power and emulates a borehole heat exchanger by a finite line-source model or a thermal resistance and capacity model. The possibly unknown parameters identified may comprise the thermal conductivity and volumetric heat capacity of the ground and grout, as well as the spacing between the pipes and the initial ground temperature. It is possible to integrate to the inversion the temperature measurements made at various depths in the fluid and grout and to take into account the fluid flow rate and the thermal capacity of the underground components.  
 
 ##Content of the repository
-This repository contains the latest implementation of TRT_SInterp.  The folder entilted TRT_SInterp contains the source code, which is a collection of Matlab functions. The folder entilted Dataset contains an example file and a synthetic dataset.
+This repository contains the latest implementation of TRT-SInterp.  The folder entilted TRT_SInterp contains the source code, which is a collection of Matlab functions. The folder entilted Dataset contains an example file and a synthetic dataset.
 
 ##User manual
 To learn how to use TRT_SInterp or learn about its theoretical foundations, please consult the references listed below.
