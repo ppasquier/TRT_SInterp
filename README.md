@@ -1,7 +1,8 @@
-﻿TRT-SInterp
+﻿﻿TRT-SInterp
 ===========
 
 Stochastic Interpretation of Thermal Response Test
+=======
 
 ## Description
 TRT-SInterp is a Matlab code designed to interpret a thermal response test in a deterministic or stochastic framework. The program treats variable heating power and emulates a borehole heat exchanger by a finite line-source model or a thermal resistance and capacity model. The possibly unknown parameters identified may comprise the thermal conductivity and volumetric heat capacity of the ground and grout, as well as the spacing between the pipes and the initial ground temperature. It is possible to integrate to the inversion the temperature measurements made at various depths in the fluid and grout and to take into account the fluid flow rate and the thermal capacity of the underground components.  
@@ -20,7 +21,6 @@ Please, cite this work as:
 
 1. Pasquier, P., 2015. Stochastic interpretation of thermal response test with TRT-SInterp. Computers & Geosciences, 75, pp.73–87.
 
-
 ## Additional references
 Additional information on TRT-SInterp can be found in the following references :
 
@@ -31,4 +31,4 @@ Additional information on TRT-SInterp can be found in the following references :
 - Marcotte, D. & Pasquier, P. 2008.  On the estimation of thermal resistance in borehole conductivity test. Renewable Energy, vol. 33, p. 2407-2415. doi:10.1016/j.renene.2008.01.021
 - Marcotte, D. & Pasquier, P., 2008. Fast fluid and ground temperature computation for geothermal ground-loop heat exchanger systems. Geothermics, 37(6), pp.651–665.
 - Hellström, G., 1991. Ground Heat Storage. Thermal Analysis of Duct Storage Systems. Part I Theory. University of Lund,  Sweden.
-- Bennet, J., Claesson, J. & Hellström, G., 1987. Multipole Method to Compute  the Conductive Heat Flows to and between Pipes in a Composite Cylinder, Lund, Sweden: University of Lund, Department of Building Technology and Mathematical Physics.
+- Bennet, J., Claesson, J. & Hellström, G., 1987. Multipole Method to Compute  the Conductive Heat Flows to and between Pipes in a Composite Cylinder, Lund, Sweden: University of Lund, Department of Building Technology and Mathematical Physics
