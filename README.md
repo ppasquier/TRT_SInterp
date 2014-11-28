@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿TRT-SInterp
+=======
+TRT_SInterp
+>>>>>>> origin/master
 ===========
 
 Stochastic Interpretation of Thermal Response Test
@@ -16,7 +20,7 @@ To learn how to use TRT-SInterp or learn about its theoretical foundations, plea
 To suggest improvements, report a possible bug, or initiate collaboration, please, contact me at : philippe.pasquier@polymtl.ca or on [ResearchGate](https://www.researchgate.net/profile/Philippe_Pasquier2).
 
 ## Reference
-Please, cite this work as:
+Please, cite this work as: 
 
 1. Pasquier, P., 2015. Stochastic interpretation of thermal response test with TRT-SInterp. Computers & Geosciences, 75, pp.73–87.
 
