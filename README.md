@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-﻿TRT-SInterp
-=======
 TRT_SInterp
->>>>>>> origin/master
 ===========
 
 Stochastic Interpretation of Thermal Response Test
