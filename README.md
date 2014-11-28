@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 ﻿﻿TRT-SInterp
 ===========
 
+=======
+>>>>>>> 410a2983087071df95a0d7ec78634d904b7737d5
 Stochastic Interpretation of Thermal Response Test
 =======
 
@@ -31,4 +34,8 @@ Additional information on TRT-SInterp can be found in the following references :
 - Marcotte, D. & Pasquier, P. 2008.  On the estimation of thermal resistance in borehole conductivity test. Renewable Energy, vol. 33, p. 2407-2415. doi:10.1016/j.renene.2008.01.021
 - Marcotte, D. & Pasquier, P., 2008. Fast fluid and ground temperature computation for geothermal ground-loop heat exchanger systems. Geothermics, 37(6), pp.651–665.
 - Hellström, G., 1991. Ground Heat Storage. Thermal Analysis of Duct Storage Systems. Part I Theory. University of Lund,  Sweden.
+<<<<<<< HEAD
 - Bennet, J., Claesson, J. & Hellström, G., 1987. Multipole Method to Compute  the Conductive Heat Flows to and between Pipes in a Composite Cylinder, Lund, Sweden: University of Lund, Department of Building Technology and Mathematical Physics
+=======
+- Bennet, J., Claesson, J. & Hellström, G., 1987. Multipole Method to Compute  the Conductive Heat Flows to and between Pipes in a Composite Cylinder, Lund, Sweden: University of Lund, Department of Building Technology and Mathematical Physics
+>>>>>>> 410a2983087071df95a0d7ec78634d904b7737d5
