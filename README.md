@@ -1,4 +1,4 @@
-﻿TRT_SInterp
+TRT_SInterp
 ===========
 
 Stochastic Interpretation of Thermal Response Test
