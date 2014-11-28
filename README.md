@@ -17,11 +17,10 @@ Please, cite this work as:
 
 1. Pasquier, P., 2015. Stochastic interpretation of thermal response test with TRT-SInterp. Computers & Geosciences, 75, pp.73–87.
 
-
 ## Additional references
 Additional information on TRT-SInterp can be found in the following references :
 
-2 . Pasquier, P. & Marcotte, D., 2013. Joint Use of Quasi-3D Response Model and Spectral Method to Simulate Borehole Heat Exchanger. Geothermics.
+2. Pasquier, P. & Marcotte, D., 2013. Joint Use of Quasi-3D Response Model and Spectral Method to Simulate Borehole Heat Exchanger. Geothermics.
 3.  Pasquier, P. & Marcotte, D., 2012. Short-term simulation of ground heat exchanger with an improved TRCM. Renewable Energy, 46, pp.92–99.
 4. Jacques, L., Pasquier, P., Marcotte, D.  Influence of Measurement and Model Error on Thermal Response Test Interpretation, in: Proceedings of the World Renewable Energy Congress 2014, London, United Kingdom. 2014.
 5. Claesson, J. & Javed, S., 2011. An analytical method to calculate borehole fluid temperatures for timescales from minutes to decades. In ASHRAE Annual Conference. Montréal, Canada, p. 10.
